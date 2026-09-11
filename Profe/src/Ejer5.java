@@ -1,8 +1,19 @@
+import java.io.File;
+import java.io.IOException;
+
 void main() throws IOException, InterruptedException {
 
-   ProcessBuilder temp = new ProcessBuilder("cmd.exe", "/c", "dir");
+   ProcessBuilder processBuilder =
+           new ProcessBuilder("cmd.exe", "/c", "dir");
 
-   Process process = temp.start();
+   File carpeta = new File(System.getProperty("java.io.tmpdir"));
+
+   processBuilder.directory(carpeta);
+
+   System.out.println("Directorio de trabajo: "
+           + processBuilder.directory());
+
+   Process process = processBuilder.start();
 
    String salida = new String(
            process.getInputStream().readAllBytes()
@@ -10,10 +21,5 @@ void main() throws IOException, InterruptedException {
 
    process.waitFor();
 
-   FileWriter fichero = new FileWriter(
-           "C:\\Users\\149FA04\\Desktop\\PSP\\Profe\\f1.txt"
-   );
-
-   fichero.write(salida);
-   fichero.close();
+   System.out.println(salida);
 }
