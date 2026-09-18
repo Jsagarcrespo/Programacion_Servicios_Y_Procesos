@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejer7/Ejer.iml" filepath="$PROJECT_DIR$/ejer7/Ejer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaHilos/PruebaHilos.iml" filepath="$PROJECT_DIR$/PruebaHilos/PruebaHilos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Philo/Philo.iml" filepath="$PROJECT_DIR$/Philo/Philo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer1hilo/ejer1hilo.iml" filepath="$PROJECT_DIR$/ejer1hilo/ejer1hilo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer2hilo/ejer2hilo.iml" filepath="$PROJECT_DIR$/ejer2hilo/ejer2hilo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer3hilo/ejer3hilo.iml" filepath="$PROJECT_DIR$/ejer3hilo/ejer3hilo.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/ejer4hilo/ejer4hilo.iml" filepath="$PROJECT_DIR$/ejer4hilo/ejer4hilo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer5hilo/ejer5hilo.iml" filepath="$PROJECT_DIR$/ejer5hilo/ejer5hilo.iml" />
+
+
+    </modules>
+  </component>
+</project>
