@@ -14,6 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/ejer6hilo/ejer6hilo.iml" filepath="$PROJECT_DIR$/ejer6hilo/ejer6hilo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejer7hilo/ejer7hilo.iml" filepath="$PROJECT_DIR$/ejer7hilo/ejer7hilo.iml" />
 
+      <module fileurl="file://$PROJECT_DIR$/ejer1Sincro/ejer1Sincro.iml" filepath="$PROJECT_DIR$/ejer1Sincro/ejer1Sincro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer2Sincro/ejer2Sincro.iml" filepath="$PROJECT_DIR$/ejer2Sincro/ejer2Sincro.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/ejer1Monitor/ejer1Monitor.iml" filepath="$PROJECT_DIR$/ejer1Monitor/ejer1Monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer2Monitor/ejer2Monitor.iml" filepath="$PROJECT_DIR$/ejer2Monitor/ejer2Monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer3Monitor/ejer3Monitor.iml" filepath="$PROJECT_DIR$/ejer3Monitor/ejer3Monitor.iml" />
+
 
     </modules>
   </component>
