@@ -2,46 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a2e1d1-4891-4a67-a054-08f3390f8c1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ejer1Semaforo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1Semaforo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1Semaforo/ejer1Semaforo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1Semaforo/src/Biblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1Semaforo/src/Impresora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer1Semaforo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/ejer2Semaforo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/src/Informatica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer2Semaforo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/ejer3Semaforo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/src/Ascensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer3Semaforo/src/Pasajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/ejer4Semaforo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/src/Parking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejer4Semaforo/src/Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ejer1Semaforo/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejer1Semaforo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejer1Semaforo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejer4Monitor.7z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejer5Monitor/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejer5Monitor/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejer5Monitor/src/Puente.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejer5Monitor/src/Puente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejer5Monitor/src/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejer5Monitor/src/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/ejer5Semaforo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/src/Maquina1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/src/Maquina2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer5Semaforo/src/Maquina3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejer4Semaforo/src/Parking.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejer4Semaforo/src/Parking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +51,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/149FA04/Desktop/Pro_ser_y_Proces/Programacion_Servicios_Y_Procesos/Ejer",
+    "last_opened_file_path": "C:/Users/149FA04/Desktop/Pro_ser_y_Proces/Programacion_Servicios_Y_Procesos/Programacion_Servicios_Y_Procesos/Ejer",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm"
@@ -89,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\149FA04\Desktop\Pro_ser_y_Proces\Programacion_Servicios_Y_Procesos\Programacion_Servicios_Y_Procesos\Ejer" />
       <recent name="C:\Users\149FA04\Desktop\Pro_ser_y_Proces\Programacion_Servicios_Y_Procesos\Ejer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">

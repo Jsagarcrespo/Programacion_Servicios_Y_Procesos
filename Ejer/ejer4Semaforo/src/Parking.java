@@ -44,7 +44,7 @@ public class Parking {
         pesoActual -= peso;
 
         System.out.println();
-        System.out.println("Vehiculo " + id + " y peso " + peso + "ahora hay: " + vehiculoDentro);
+        System.out.println("Vehiculo " + id + " ha salido y con peso " + peso + "ahora hay: " + vehiculoDentro);
         semaphore.release();
 
     }
