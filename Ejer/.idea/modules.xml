@@ -23,6 +23,12 @@
       <module fileurl="file://$PROJECT_DIR$/ejer4Monitor/ejer4Monitor.iml" filepath="$PROJECT_DIR$/ejer4Monitor/ejer4Monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejer5Monitor/ejer5Monitor.iml" filepath="$PROJECT_DIR$/ejer5Monitor/ejer5Monitor.iml" />
 
+      <module fileurl="file://$PROJECT_DIR$/ejer1Semaforo/ejer1Semaforo.iml" filepath="$PROJECT_DIR$/ejer1Semaforo/ejer1Semaforo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer4Semaforo/ejer4Semaforo.iml" filepath="$PROJECT_DIR$/ejer4Semaforo/ejer4Semaforo.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/ejer2Semaforo/ejer2Semaforo.iml" filepath="$PROJECT_DIR$/ejer2Semaforo/ejer2Semaforo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejer3Semaforo/ejer3Semaforo.iml" filepath="$PROJECT_DIR$/ejer3Semaforo/ejer3Semaforo.iml" />
+
 
     </modules>
   </component>
